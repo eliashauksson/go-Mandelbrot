@@ -42,7 +42,7 @@ go get -u github.com/hajimehoshi/ebiten
 To download the project simply just type:
 
 ```
-git clone https://github.com/eliashauksson/go-Mandelbrot
+go get -u github.com/eliashauksson/go-Mandelbrot
 ```
 ```
 cd go-Mandelbrot && go build main.go
