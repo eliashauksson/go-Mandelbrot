@@ -2,7 +2,7 @@
 
 The Mandelbrot set programmed in Go
 
-[!image of the mandelbrot set](img/mandelbrot.png)
+![image of the mandelbrot set](img/mandelbrot.png)
 
 ## Getting Started
 
