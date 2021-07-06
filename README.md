@@ -2,6 +2,8 @@
 
 The Mandelbrot set programmed in Go
 
+[!image of the mandelbrot set](img/mandelbrot.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
@@ -46,6 +48,13 @@ git clone https://github.com/eliashauksson/go-Mandelbrot
 ```
 ```
 cd go-Mandelbrot && go build main.go
+```
+
+### Run
+
+Then one can run the program with:
+```
+./main
 ```
 
 ### Built With
